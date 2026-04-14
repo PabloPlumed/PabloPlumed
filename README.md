@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 💡 Strong focus on **C++ development**
+- 💡 Strong focus on **C/C++ development**
 - ⚡ Experience with **CUDA** (parallel computing & GPU programming)
 - 🤖 Familiar with **ROS** (Robot Operating System)
 - 🔍 Interested in **systems, optimization, and hardware-software interaction**
@@ -15,17 +15,25 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** C++, Python, Java, MATLAB  
-- **Tools & Technologies:** CUDA, ROS, Git, Linux  
-- **Areas:** Systems Programming, Parallel Computing, Robotics  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+![CUDA](https://img.shields.io/badge/CUDA-GPU-green)
+![ROS](https://img.shields.io/badge/ROS-Robotics-blue)
 
 ---
-
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloPlumed&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPlumed&layout=compact&theme=tokyonight"/>
+</p>
 ---
 
 ## 📫 Contact
@@ -33,4 +41,4 @@
 
 ---
 
-⭐️ *Always learning, always building
+⭐️ Always learning, always building
