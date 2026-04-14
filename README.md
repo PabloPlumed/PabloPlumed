@@ -24,14 +24,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
-![CUDA](https://img.shields.io/badge/CUDA-GPU-green)
-![ROS](https://img.shields.io/badge/ROS-Robotics-blue)
+
+<p>
+  <img src="https://img.shields.io/badge/CUDA-GPU-green"/>
+  <img src="https://img.shields.io/badge/ROS-Robotics-blue"/>
+</p>
 
 ---
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PabloPlumed&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPlumed&layout=compact&theme=tokyonight"/>
 </p>
 ---
